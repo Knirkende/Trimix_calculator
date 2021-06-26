@@ -471,11 +471,11 @@ class CalcGui:
 
 	def clear_fills(self):
 		self.fill_helium_label.set('')
-		self.fill_helium.set('')
+
 		self.fill_oxygen_label.set('')
-		self.fill_oxygen.set('')
+
 		self.fill_topmix_label.set('')
-		self.fill_topmix.set('')
+
 
 	def validator(self):
 		"""
